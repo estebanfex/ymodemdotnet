@@ -1,0 +1,5 @@
+C:\Documents and Settings\albertjan\Mijn documenten\Visual Studio 2008\Projects\Curit.Module.RTX\Curit.Module.RTX.Com\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\albertjan\Mijn documenten\Visual Studio 2008\Projects\Curit.Module.RTX\Curit.Module.RTX.Com\bin\Debug\Curit.Module.RTX.Com.dll
+C:\Documents and Settings\albertjan\Mijn documenten\Visual Studio 2008\Projects\Curit.Module.RTX\Curit.Module.RTX.Com\bin\Debug\Curit.Module.RTX.Com.pdb
+C:\Documents and Settings\albertjan\Mijn documenten\Visual Studio 2008\Projects\Curit.Module.RTX\Curit.Module.RTX.Com\obj\Debug\Curit.Module.RTX.Com.dll
+C:\Documents and Settings\albertjan\Mijn documenten\Visual Studio 2008\Projects\Curit.Module.RTX\Curit.Module.RTX.Com\obj\Debug\Curit.Module.RTX.Com.pdb
